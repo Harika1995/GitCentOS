@@ -15,8 +15,7 @@
 4. Update Git using the command ---------------------------> **yum git update**
 5. To find Git Version using the command ------------------> **git --version**
 ![image](https://user-images.githubusercontent.com/42949313/87632315-c1954700-c6fe-11ea-808e-d2a6e2e33b1f.png)
-6. Configure Git using the command ------------------------> **git config –-global user.name “Your Name”**, 
-                                                             **git config –-global user.email "youremail@mailsite.com"**
+6. Configure Git using the command ------------------------> **git config –-global user.name “Your Name”**, **git config –-global user.email "youremail@mailsite.com"**, **git config --global color.ui auto
 ![image](https://user-images.githubusercontent.com/42949313/87632742-995a1800-c6ff-11ea-9ad0-5d9f70ac2f8b.png)
 7. Check Git Configurations using the command -------------> **git config --list**
 ![image](https://user-images.githubusercontent.com/42949313/87867373-dc132e80-c951-11ea-8539-e7692ed9892a.png)
@@ -25,11 +24,12 @@
 ![git clone](https://user-images.githubusercontent.com/42949313/87904910-0b46a000-ca25-11ea-9e87-b2731e408c17.PNG)
 10. Create a new file to git repository using the command -----> **vi sample.py"**. Adding the sample.py file to the git repository using the command **git add sample.py**
 ![image](https://user-images.githubusercontent.com/42949313/87905277-d25afb00-ca25-11ea-98ea-865e86d45680.png)
-11. To know the status of git use the command **git status**
+11. To know the status of git use the command ------------------> **git status**
 ![image](https://user-images.githubusercontent.com/42949313/87883523-93995680-c9cd-11ea-95fb-b0352983c190.png)
 12. Commit the changes of Git using the command -------------> **git commit -m "Commit Message"
 ![image](https://user-images.githubusercontent.com/42949313/87905389-0c2c0180-ca26-11ea-82f8-43e9da9c6d72.png)
 13. To push changes into repository using the command --------> **git push origin "your branch-name"**
 ![image](https://user-images.githubusercontent.com/42949313/87905529-60cf7c80-ca26-11ea-9892-8f96bfc4ffcf.png)
 14. To fetch/merge commits using the command -------------------> **git pull**
+![image](https://user-images.githubusercontent.com/42949313/87905707-d50a2000-ca26-11ea-806b-dbb21707bc54.png)
 
