@@ -15,7 +15,7 @@
 4. Update Git using the command ---------------------------> **yum git update**
 5. To find Git Version using the command ------------------> **git --version**
 ![image](https://user-images.githubusercontent.com/42949313/87632315-c1954700-c6fe-11ea-808e-d2a6e2e33b1f.png)
-6. Configure Git using the command ------------------------> **git config –-global user.name “Your Name”**, **git config –-global user.email "youremail@mailsite.com"**, **git config --global color.ui auto
+6. Configure Git using the command ------------------------> **git config –-global user.name “Your Name”**, **git config –-global user.email "youremail@mailsite.com"**, **git config --global color.ui auto**
 ![image](https://user-images.githubusercontent.com/42949313/87632742-995a1800-c6ff-11ea-9ad0-5d9f70ac2f8b.png)
 7. Check Git Configurations using the command -------------> **git config --list**
 ![image](https://user-images.githubusercontent.com/42949313/87867373-dc132e80-c951-11ea-8539-e7692ed9892a.png)
