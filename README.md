@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/42949313/87905277-d25afb00-ca25-11ea-98ea-865e86d45680.png)
 11. To know the status of git use the command ------------------> **git status**
 ![image](https://user-images.githubusercontent.com/42949313/87883523-93995680-c9cd-11ea-95fb-b0352983c190.png)
-12. Commit the changes of Git using the command -------------> **git commit -m "Commit Message"
+12. Commit the changes of Git using the command -------------> **git commit -m "Commit Message"**
 ![image](https://user-images.githubusercontent.com/42949313/87905389-0c2c0180-ca26-11ea-82f8-43e9da9c6d72.png)
 13. To push changes into repository using the command --------> **git push origin "your branch-name"**
 ![image](https://user-images.githubusercontent.com/42949313/87905529-60cf7c80-ca26-11ea-9892-8f96bfc4ffcf.png)
@@ -34,6 +34,6 @@
 ![image](https://user-images.githubusercontent.com/42949313/87905707-d50a2000-ca26-11ea-806b-dbb21707bc54.png)
 15. To create new branches in the git --------------------------> **git branch branch-name**
 16. To find the list of branches -------------------------------> **git branch -a** and to change the branch in git ---------------------> **git checkout branch-name**
-17. To merge the changes from the new-branch to the master branch using the command -------------------> **git merge new-branch --no-ff**
+17. To merge the changes from the new-branch to the master branch using the command ---------------> **git merge new-branch --no-ff**
 ![image](https://user-images.githubusercontent.com/42949313/87986974-7c2c9d00-caa3-11ea-8afb-c63878a5705d.png)
 
