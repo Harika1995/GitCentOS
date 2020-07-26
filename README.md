@@ -36,11 +36,14 @@
 14. To fetch/merge commits using the command -------------------> **git pull**
 ![image](https://user-images.githubusercontent.com/42949313/87905707-d50a2000-ca26-11ea-806b-dbb21707bc54.png)
 
-15. To create new branches in the git --------------------------> **git branch branch-name**
+15. To add a new file into the repository using the command -------------> **git add "filename"**
+![image](https://user-images.githubusercontent.com/42949313/88485090-0ad46a80-cf39-11ea-93bd-e011ae01b1a2.png)
 
-16. To find the list of branches -------------------------------> **git branch -a** and to change the branch in git ---------------------> **git checkout branch-name**
+16. To create new branches in the git --------------------------> **git branch branch-name**
 
-17. To merge the changes from the new-branch to the master branch using the command ---------------> **git merge new-branch --no-ff**
+17. To find the list of branches -------------------------------> **git branch -a** and to change the branch in git ---------------------> **git checkout branch-name**
+
+18. To merge the changes from the new-branch to the master branch using the command ---------------> **git merge new-branch --no-ff**
 
 ![image](https://user-images.githubusercontent.com/42949313/87986974-7c2c9d00-caa3-11ea-8afb-c63878a5705d.png)
 
