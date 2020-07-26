@@ -37,3 +37,5 @@
 17. To merge the changes from the new-branch to the master branch using the command ---------------> **git merge new-branch --no-ff**
 ![image](https://user-images.githubusercontent.com/42949313/87986974-7c2c9d00-caa3-11ea-8afb-c63878a5705d.png)
 
+
+# Created by Harika Naidu.
