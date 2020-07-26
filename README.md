@@ -27,6 +27,7 @@
 11. To know the status of git use the command ------------------> **git status**
 ![image](https://user-images.githubusercontent.com/42949313/87883523-93995680-c9cd-11ea-95fb-b0352983c190.png)
 12. Commit the changes of Git using the command -------------> **git commit -m "Commit Message"** or **git commit "filename" -m "Commit Message"**
+
 ![image](https://user-images.githubusercontent.com/42949313/87905389-0c2c0180-ca26-11ea-82f8-43e9da9c6d72.png)
 13. To push changes into repository using the command --------> **git push origin "your branch-name"**
 ![image](https://user-images.githubusercontent.com/42949313/87905529-60cf7c80-ca26-11ea-9892-8f96bfc4ffcf.png)
