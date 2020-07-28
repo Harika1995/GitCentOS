@@ -44,6 +44,7 @@ Add the line **export JAVA_HOME="/usr/lib/jvm/java-1.8.0-openjdk"**
 ![Maven Vesion CentOS](https://user-images.githubusercontent.com/42949313/88609882-d0f38900-d04a-11ea-951a-30b94bb7c665.PNG)
 
 7. To configure the maven using the command -----------------------> **vim .bashprofile**
+
 Add the line **export MAVEN_HOME="/usr/share/maven"**
 
 8. To compile the Maven project using the command ----------------> **mvn compile**
