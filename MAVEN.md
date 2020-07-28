@@ -27,7 +27,7 @@ The Most important file in the Maven Projects is the **POM.XML** file. Maven is 
 
 3. To configure the Java using the command -----------------------> **vim .bashprofile**
 
-Add the line **export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk"
+Add the line **export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk"**
 
 ![Java Environment Variables CentOS](https://user-images.githubusercontent.com/42949313/88609566-09df2e00-d04a-11ea-925c-0b7c99ffb9b5.PNG)
 
